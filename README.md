@@ -1,5 +1,3 @@
-# Talk To Doctor
-
 A website built using **Django**, **HTML**, **CSS** and **JavaScript** that enables booking an appointment with a doctor easily.
 <br>
 
